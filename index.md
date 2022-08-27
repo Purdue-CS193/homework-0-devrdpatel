@@ -1,3 +1,7 @@
+# Dev's First CS193 Homework
+- I look forward to learning how to use the terminal and command line arguments
+- I like the way CS193 is designed to teach us things we need to know for CS180 and the rest of our career in CS
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,12 +15,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Dev's First CS193 Homework
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- I look forward to learning how to use the terminal and command line arguments
+- I like the way CS193 is designed to teach us things we need to know for CS180 and the rest of our career in CS
 
 1. Numbered
 2. List
